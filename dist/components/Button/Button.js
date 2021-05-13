@@ -1,0 +1,6 @@
+import React from 'react';
+export default function Button(_ref) {
+  var text = _ref.text;
+  return /*#__PURE__*/React.createElement("button", null, text);
+}
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9jb21wb25lbnRzL0J1dHRvbi9CdXR0b24uanMiXSwibmFtZXMiOlsiUmVhY3QiLCJCdXR0b24iLCJ0ZXh0Il0sIm1hcHBpbmdzIjoiQUFBQSxPQUFPQSxLQUFQLE1BQWtCLE9BQWxCO0FBRUEsZUFBZSxTQUFTQyxNQUFULE9BQTBCO0FBQUEsTUFBUkMsSUFBUSxRQUFSQSxJQUFRO0FBQ3ZDLHNCQUFPLG9DQUFTQSxJQUFULENBQVA7QUFDRCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBCdXR0b24oeyB0ZXh0IH0pIHtcclxuICByZXR1cm4gPGJ1dHRvbj57dGV4dH08L2J1dHRvbj47XHJcbn0iXX0=

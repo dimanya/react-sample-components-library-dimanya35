@@ -1,0 +1,13 @@
+import React from 'react';
+import Button from '@material-ui/core/Button';
+
+var MuiButton = function MuiButton(_ref) {
+  var text = _ref.text;
+  return /*#__PURE__*/React.createElement(Button, {
+    variant: "contained",
+    color: "primary"
+  }, text);
+};
+
+export default MuiButton;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9jb21wb25lbnRzL011aUJ1dHRvbi9NdWlCdXR0b24uanMiXSwibmFtZXMiOlsiUmVhY3QiLCJCdXR0b24iLCJNdWlCdXR0b24iLCJ0ZXh0Il0sIm1hcHBpbmdzIjoiQUFBQSxPQUFPQSxLQUFQLE1BQWtCLE9BQWxCO0FBQ0EsT0FBT0MsTUFBUCxNQUFtQiwwQkFBbkI7O0FBRUEsSUFBTUMsU0FBUyxHQUFHLFNBQVpBLFNBQVk7QUFBQSxNQUFHQyxJQUFILFFBQUdBLElBQUg7QUFBQSxzQkFDaEIsb0JBQUMsTUFBRDtBQUFRLElBQUEsT0FBTyxFQUFDLFdBQWhCO0FBQTRCLElBQUEsS0FBSyxFQUFDO0FBQWxDLEtBQ0dBLElBREgsQ0FEZ0I7QUFBQSxDQUFsQjs7QUFNQSxlQUFlRCxTQUFmIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JztcclxuaW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nO1xyXG5cclxuY29uc3QgTXVpQnV0dG9uID0gKHsgdGV4dCB9KSA9PiAoXHJcbiAgPEJ1dHRvbiB2YXJpYW50PVwiY29udGFpbmVkXCIgY29sb3I9XCJwcmltYXJ5XCI+XHJcbiAgICB7dGV4dH1cclxuICA8L0J1dHRvbj5cclxuKTtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IE11aUJ1dHRvbjsiXX0=
